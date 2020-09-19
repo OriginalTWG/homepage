@@ -1,2 +1,2 @@
 My personal fork of Jaredk3nt's homepage.
-<A><img src="https://imgur.com/a/aVZ9Wux"/><a/>
+<a href="//imgur.com/a/aVZ9Wux">My personal fork of Jaredk3nt&#39;s homepage</a>
